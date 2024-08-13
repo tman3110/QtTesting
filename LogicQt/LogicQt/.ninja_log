@@ -1,0 +1,34 @@
+# ninja log v6
+28	201	7452724227746666	LogicQt_autogen/timestamp	2145ef6812469fa2
+28	201	7452724227746666	LogicQt_autogen/mocs_compilation.cpp	2145ef6812469fa2
+179	5294	7452710640612877	CMakeFiles/LogicQt.dir/VietNamese.cpp.obj	927e85070f35d39
+28	201	7452724227746666	D:/BT/C++/0HCMUS/Year 1/S3/LogicQt/LogicQt/LogicQt_autogen/timestamp	2145ef6812469fa2
+166	4684	7452710640456685	CMakeFiles/LogicQt.dir/Lists.cpp.obj	2ccb38366dce8929
+28	201	7452724227746666	D:/BT/C++/0HCMUS/Year 1/S3/LogicQt/LogicQt/LogicQt_autogen/mocs_compilation.cpp	2145ef6812469fa2
+183	446	7452709015376181	CMakeFiles/LogicQt.dir/LogicQt_autogen/mocs_compilation.cpp.obj	a63eca8b8c0d2b0f
+154	4614	7452710640300460	CMakeFiles/LogicQt.dir/Game.cpp.obj	ce6947f737341b3d
+174	4681	7452710640612877	CMakeFiles/LogicQt.dir/Trie.cpp.obj	ae3daf35fed75f02
+157	3532	7452723041407315	CMakeFiles/LogicQt.dir/main.cpp.obj	3413f1349de64fb7
+149	4888	7452710640300460	CMakeFiles/LogicQt.dir/Definition.cpp.obj	c2d1593c85c4e6c4
+204	5163	7452710640925303	CMakeFiles/LogicQt.dir/Word.cpp.obj	e0c19d9b1377f8e4
+160	5333	7452710640456685	CMakeFiles/LogicQt.dir/Global.cpp.obj	1fefbcc3e74de6bb
+201	3607	7452724229483845	CMakeFiles/LogicQt.dir/Build.cpp.obj	c1b32d7921a87ca7
+3608	4060	7452724263415253	LogicQt.exe	2996018e6647de29
+27	211	7452725629385031	LogicQt_autogen/timestamp	2145ef6812469fa2
+27	211	7452725629385031	LogicQt_autogen/mocs_compilation.cpp	2145ef6812469fa2
+27	211	7452725629385031	D:/BT/C++/0HCMUS/Year 1/S3/LogicQt/LogicQt/LogicQt_autogen/timestamp	2145ef6812469fa2
+27	211	7452725629385031	D:/BT/C++/0HCMUS/Year 1/S3/LogicQt/LogicQt/LogicQt_autogen/mocs_compilation.cpp	2145ef6812469fa2
+212	2720	7452725631232398	CMakeFiles/LogicQt.dir/Build.cpp.obj	c1b32d7921a87ca7
+2720	3194	7452725656318158	LogicQt.exe	2996018e6647de29
+50	224	7452725899694848	LogicQt_autogen/timestamp	2145ef6812469fa2
+50	224	7452725899694848	LogicQt_autogen/mocs_compilation.cpp	2145ef6812469fa2
+50	224	7452725899694848	D:/BT/C++/0HCMUS/Year 1/S3/LogicQt/LogicQt/LogicQt_autogen/timestamp	2145ef6812469fa2
+50	224	7452725899694848	D:/BT/C++/0HCMUS/Year 1/S3/LogicQt/LogicQt/LogicQt_autogen/mocs_compilation.cpp	2145ef6812469fa2
+226	2882	7452725901449304	CMakeFiles/LogicQt.dir/Build.cpp.obj	c1b32d7921a87ca7
+2882	3389	7452725927865247	LogicQt.exe	2996018e6647de29
+43	221	7452726116942260	LogicQt_autogen/timestamp	2145ef6812469fa2
+43	221	7452726116942260	LogicQt_autogen/mocs_compilation.cpp	2145ef6812469fa2
+43	221	7452726116942260	D:/BT/C++/0HCMUS/Year 1/S3/LogicQt/LogicQt/LogicQt_autogen/timestamp	2145ef6812469fa2
+43	221	7452726116942260	D:/BT/C++/0HCMUS/Year 1/S3/LogicQt/LogicQt/LogicQt_autogen/mocs_compilation.cpp	2145ef6812469fa2
+222	4251	7452726118737442	CMakeFiles/LogicQt.dir/Build.cpp.obj	c1b32d7921a87ca7
+4252	4762	7452726158931737	LogicQt.exe	2996018e6647de29
